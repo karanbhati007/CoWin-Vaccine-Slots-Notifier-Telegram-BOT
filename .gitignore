@@ -1,3 +1,4 @@
 KSB_Cowin.pem
 requirements.txt
 test.py
+.env
